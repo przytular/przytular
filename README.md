@@ -1,6 +1,6 @@
 👋 Hi, I’m @przytular
 
-👀 I’m interested in programming, system administration and security
+👀 I’m interested in IT systems
 
 🌱 I’m currently learning being a awesome DevOps
 
